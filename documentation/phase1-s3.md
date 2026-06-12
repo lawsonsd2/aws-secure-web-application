@@ -56,4 +56,12 @@ Amazon S3
 - Object storage management
 ##
 
-**Evidence**
+**Lessons Learned**
+
+During this phase, I did the following:
+
+- Create and configure an Amazon S3 bucket.
+- Upload and manage a static website asset.
+- Enable versioning for object recovery.
+- Apply secure storage practices by preventing public access.
+- Prepare an S3 bucket for integration with Amazon CloudFront and Origin Access Control.
